@@ -1,0 +1,12 @@
+{
+  "name": "my-first-project",
+  "version": "1.0.0",
+  "description": "Simple Node.js utility project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\""
+  },
+  "author": "Bhupendra",
+  "license": "MIT"
+}
